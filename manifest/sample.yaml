@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: spring-helloworld
-        image: cloudmonster123/spring-boot-app-k8s_deployment-new:v98
+        image: cloudmonster123/spring-boot-app-k8s_deployment-new:v110
         ports:
         - name: web
           containerPort: 8888
